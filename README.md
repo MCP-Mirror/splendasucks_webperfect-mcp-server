@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 WebPerfect MCP Server
+# 📷✨ WebPerfect MCP Server
 
 > Transform your images into web-optimized masterpieces with AI-powered precision
 
